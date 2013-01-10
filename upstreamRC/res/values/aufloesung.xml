@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string name="spinner_titelaufloesung">Aufloesung</string>
+    <string-array name = "aufloesung">
+        <item>"640x480"</item>
+        <item>"352x288"</item>
+        <item>"320x240"</item>
+        <item>"176x144"</item>
+        <item>"160x120"</item>
+    </string-array>
+</resources>
